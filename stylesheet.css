@@ -1,0 +1,33 @@
+div{
+    background-color: white;
+    width: 500px;
+    margin: 40px;
+    text-align: justify;
+}
+.first{
+    color: green;
+    font-size: 14px;
+    border: solid black 2px;
+    padding: 20px pink;
+    margin: 20px;
+    line-height: 1.5;
+}
+.second{
+    color: red;
+    font-size: 14px;
+    border: solid black 2px;
+    padding: 20px violet;
+    margin: 20px;
+    line-height: 1.5;
+}
+.third{
+    color: blue;
+    font-size: 14px;
+    border: solid black 2px;
+    padding: 20px orange;
+    margin: 20px;
+    line-height: 1.5;
+}
+.h2{
+    font-size: 18px;
+}
